@@ -1,1 +1,1 @@
-This is some basic Git stuff.
+Just practicing git
