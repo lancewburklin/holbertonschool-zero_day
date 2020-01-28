@@ -1,0 +1,3 @@
+i
+uname just givesa the operating system Information
+.
